@@ -1,0 +1,19 @@
+{
+  "name": "clean-arch-user-crud-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.11.0",
+    "prisma": "^5.11.0",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.14",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
