@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@prisma/client": "^5.11.0",
+    //TODO: Fix Error: No test files found
+    "mocha": "^10.3.0",
     "prisma": "^5.11.0",
     "typescript": "^5.4.3"
   },
